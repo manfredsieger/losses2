@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.191bd8a7.css",
+    "main.js": "/static/js/main.5ce7c2c0.js",
+    "static/media/og_picture.png": "/static/media/og_picture.a15b611b446d62ba012f.png",
+    "static/media/vessels.svg": "/static/media/vessels.08771e9f29493e430f2a.svg",
+    "static/media/logo_CBA_eng.svg": "/static/media/logo_CBA_eng.2b10288d67376a9de9ab.svg",
+    "static/media/armoredVehicles.svg": "/static/media/armoredVehicles.58b66d92dbea6ef53226.svg",
+    "static/media/personnel.svg": "/static/media/personnel.051d001229c39d2d298c.svg",
+    "static/media/cisterns.svg": "/static/media/cisterns.3add338c3fe2e9278021.svg",
+    "static/media/logo_CBA_ua.svg": "/static/media/logo_CBA_ua.7962afac22b9c3e7ca98.svg",
+    "static/media/mlrs.svg": "/static/media/mlrs.d935028d11b712094bf3.svg",
+    "static/media/specialVehicle.svg": "/static/media/specialVehicle.fbe435540db838137586.svg",
+    "static/media/vehicles.svg": "/static/media/vehicles.bad3c5b981464c5e2ac7.svg",
+    "static/media/helicopters.svg": "/static/media/helicopters.a271190b3c08d98f2786.svg",
+    "static/media/tanks.svg": "/static/media/tanks.1954d6b93ef90e58bea1.svg",
+    "static/media/antiAir.svg": "/static/media/antiAir.52c2e228c7aef09de5e7.svg",
+    "static/media/fondy.svg": "/static/media/fondy.3c6732054e64eadd2500.svg",
+    "index.html": "/index.html",
+    "static/media/personnel_2.svg": "/static/media/personnel_2.bd65c27a90480c73e620.svg",
+    "static/media/unknown.svg": "/static/media/unknown.676868b56dcfe08e94adc9c21bdbca60.svg",
+    "static/media/srmb.svg": "/static/media/srmb.34b74d9fb615bbbddd14.svg",
+    "static/media/artillery.svg": "/static/media/artillery.eb87832c53781d3eb5fc.svg",
+    "static/media/aircrafts.svg": "/static/media/aircrafts.b8ae73db3fb2c6faff1d.svg",
+    "static/media/instagram.svg": "/static/media/instagram.6c8a0de85855b75ec82a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.cc265efaf6e3c40b3c4e.svg",
+    "static/media/rotate.svg": "/static/media/rotate.83f5e00d5b5feccbd3e5fbb71dc402da.svg",
+    "static/media/uav.svg": "/static/media/uav.0311d380170a011d17f6.svg",
+    "static/media/patreon.svg": "/static/media/patreon.9fc2d309ae9aefe1d6ec.svg",
+    "static/media/icon_heart.svg": "/static/media/icon_heart.606f4d604f35a87103ca7f86f7dabb77.svg",
+    "static/media/icon_chart.svg": "/static/media/icon_chart.ac4ccf13154f6fef6c51.svg",
+    "static/media/facebook.svg": "/static/media/facebook.8d0999069b0ae02eb985.svg",
+    "static/media/copy.svg": "/static/media/copy.01119aa602ff15809921.svg",
+    "static/media/icon_home.svg": "/static/media/icon_home.f895c31e99840e312383.svg",
+    "static/media/icon_download.svg": "/static/media/icon_download.a17a11dbfa159e99f759.svg",
+    "main.191bd8a7.css.map": "/static/css/main.191bd8a7.css.map",
+    "main.5ce7c2c0.js.map": "/static/js/main.5ce7c2c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191bd8a7.css",
+    "static/js/main.5ce7c2c0.js"
+  ]
+}
