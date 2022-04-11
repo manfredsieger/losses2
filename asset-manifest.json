@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d8cd3a3.css",
-    "main.js": "/static/js/main.dbf7eece.js",
+    "main.css": "/static/css/main.5a61f291.css",
+    "main.js": "/static/js/main.e2965586.js",
     "static/media/og_picture.png": "/static/media/og_picture.a15b611b446d62ba012f.png",
     "static/media/vessels.svg": "/static/media/vessels.08771e9f29493e430f2a.svg",
     "static/media/logo_CBA_eng.svg": "/static/media/logo_CBA_eng.2b10288d67376a9de9ab.svg",
@@ -33,11 +33,11 @@
     "static/media/copy.svg": "/static/media/copy.01119aa602ff15809921.svg",
     "static/media/icon_home.svg": "/static/media/icon_home.f895c31e99840e312383.svg",
     "static/media/icon_download.svg": "/static/media/icon_download.a17a11dbfa159e99f759.svg",
-    "main.7d8cd3a3.css.map": "/static/css/main.7d8cd3a3.css.map",
-    "main.dbf7eece.js.map": "/static/js/main.dbf7eece.js.map"
+    "main.5a61f291.css.map": "/static/css/main.5a61f291.css.map",
+    "main.e2965586.js.map": "/static/js/main.e2965586.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d8cd3a3.css",
-    "static/js/main.dbf7eece.js"
+    "static/css/main.5a61f291.css",
+    "static/js/main.e2965586.js"
   ]
 }
